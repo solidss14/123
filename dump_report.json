@@ -1,0 +1,216 @@
+ {
+  "pid" : 11260,
+  "output_dir" : "",
+  "dumped" : 
+  {
+   "total" : 23,
+   "dumped" : 23
+  },
+  "dumps" : [
+   {
+    "module" : "140000000",
+    "module_size" : "218e000",
+    "dump_file" : "140000000.SCPSL.exe",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff6570000",
+    "module_size" : "1f8000",
+    "dump_file" : "7ffff6570000.ntdll.dll",
+    "tags_file" : "7ffff6570000.ntdll.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff4c30000",
+    "module_size" : "c2000",
+    "dump_file" : "7ffff4c30000.kernel32.dll",
+    "tags_file" : "7ffff4c30000.kernel32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff41a0000",
+    "module_size" : "2ff000",
+    "dump_file" : "7ffff41a0000.KERNELBASE.dll",
+    "tags_file" : "7ffff41a0000.KERNELBASE.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff5c70000",
+    "module_size" : "19d000",
+    "dump_file" : "7ffff5c70000.user32.dll",
+    "tags_file" : "7ffff5c70000.user32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff47e0000",
+    "module_size" : "2b000",
+    "dump_file" : "7ffff47e0000.gdi32.dll",
+    "tags_file" : "7ffff47e0000.gdi32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff5060000",
+    "module_size" : "76d000",
+    "dump_file" : "7ffff5060000.shell32.dll",
+    "tags_file" : "7ffff5060000.shell32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff57d0000",
+    "module_size" : "355000",
+    "dump_file" : "7ffff57d0000.combase.dll",
+    "tags_file" : "7ffff57d0000.combase.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff4e00000",
+    "module_size" : "2f000",
+    "dump_file" : "7ffff4e00000.imm32.dll",
+    "tags_file" : "7ffff4e00000.imm32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffeb480000",
+    "module_size" : "27000",
+    "dump_file" : "7fffeb480000.winmm.dll",
+    "tags_file" : "7fffeb480000.winmm.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "180000000",
+    "module_size" : "12ab000",
+    "dump_file" : "180000000.SL-AC.dll",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffa81a0000",
+    "module_size" : "1cd5000",
+    "dump_file" : "7fffa81a0000.UnityPlayer.dll",
+    "tags_file" : "7fffa81a0000.UnityPlayer.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff60b0000",
+    "module_size" : "471000",
+    "dump_file" : "7ffff60b0000.setupapi.dll",
+    "tags_file" : "7ffff60b0000.setupapi.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffafe70000",
+    "module_size" : "128000",
+    "dump_file" : "7fffafe70000.opengl32.dll",
+    "tags_file" : "7fffafe70000.opengl32.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff2460000",
+    "module_size" : "d000",
+    "dump_file" : "7ffff2460000.hid.dll",
+    "tags_file" : "7ffff2460000.hid.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fff70910000",
+    "module_size" : "3d05000",
+    "dump_file" : "7fff70910000.GameAssembly.dll",
+    "tags_file" : "7fff70910000.GameAssembly.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffef8f0000",
+    "module_size" : "263000",
+    "dump_file" : "7fffef8f0000.d3d11.dll",
+    "tags_file" : "7fffef8f0000.d3d11.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7ffff24a0000",
+    "module_size" : "f6000",
+    "dump_file" : "7ffff24a0000.dxgi.dll",
+    "tags_file" : "7ffff24a0000.dxgi.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffe8d80000",
+    "module_size" : "10c000",
+    "dump_file" : "7fffe8d80000.fastprox.dll",
+    "tags_file" : "7fffe8d80000.fastprox.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffef020000",
+    "module_size" : "89000",
+    "dump_file" : "7fffef020000.MMDevAPI.dll",
+    "tags_file" : "7fffef020000.MMDevAPI.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffef120000",
+    "module_size" : "181000",
+    "dump_file" : "7fffef120000.AudioSes.dll",
+    "tags_file" : "7fffef120000.AudioSes.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "765e0000",
+    "module_size" : "1e000",
+    "dump_file" : "765e0000.xinput1_3.dll",
+    "tags_file" : "765e0000.xinput1_3.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "7fffed440000",
+    "module_size" : "11000",
+    "dump_file" : "7fffed440000.xinput1_4.dll",
+    "tags_file" : "7fffed440000.xinput1_4.dll.tag",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   }
+  ]
+ }
